@@ -22,4 +22,4 @@ python ./psoOptimization/trainSurrogateModel.py
 python ./psoOptimization/optimizaNoiseCifar100.py
 ```
 
-You can refer to [BackdoorBench]&#40;https://github.com/SCLBD/BackdoorBench&#41; for detailed usage instructions.
+You can refer to [BackdoorBench](https://github.com/SCLBD/BackdoorBench) for detailed usage instructions.
